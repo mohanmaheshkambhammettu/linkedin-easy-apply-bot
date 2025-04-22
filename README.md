@@ -4,7 +4,7 @@ A simple LinkedIn automation script using Puppeteer to apply for Easy Apply jobs
 
 ## Features
 
-- Logs in manually to avoid detection
+- Logs in manually to avoid compilance and term issues
 - Applies to `Easy Apply` jobs
 - Uploads your resume
 - Fills phone number
