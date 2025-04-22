@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-easy-apply-bot",
+  "version": "1.0.0",
+  "description": "Automated Easy Apply script for LinkedIn using Puppeteer",
+  "main": "easyApplyBot.js",
+  "scripts": {
+    "start": "node easyApplyBot.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "author": "you",
+  "license": "MIT"
+}
